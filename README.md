@@ -1,3 +1,5 @@
+<img src="https://github.com/elavincho/InteractiveWeatherApp/blob/master/assets/weather.ico" width="80" height="80" alt="img"/>
+
 # Interactive Weather App - Consumir una API con JavaScript
 
 En este proyecto realice un App del clima de Argentina. Utilice la ** API** gratuita de **OpenWeatherMap.org** la cual utiliza una key para obtener los datos del clima.
