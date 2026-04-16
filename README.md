@@ -20,7 +20,7 @@ En este proyecto realice un App del clima de Argentina. Utilice la **API** gratu
   
 ## Objetivo del Proyecto
 
-Este sistema tiene la finalidad de obtener datos del clima de todas las capitales de las provincias argentinas con JavaScript de forma asincrona, utilizando un mapa interactivo en la cual se obtiene el clima en tiempo real, obteniendo los siguientes datos:
+Este sistema tiene la finalidad de obtener datos del clima de todas las capitales de las provincias argentinas con JavaScript de forma asíncrona, utilizando un mapa interactivo en la cual se obtiene el clima en tiempo real, obteniendo los siguientes datos:
 
 - Nombre de la capital de la provincia
 - Temperatura actual
